@@ -2,7 +2,7 @@
 ---
 This provides an updated MAC address vendor database for use with Advanced IP Scanner and Advanced Port Scanner.
 
-# How to install
+## How to install
 Simply replace the existing mac_interval_tree.txt file in the installation directory of either Advanced IP Scanner or Advanced Port Scanner, then restart the application.
 This is an update of the mac address vendors database for [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) and [Advanced Port Scanner](https://www.advanced-port-scanner.com/).
 
